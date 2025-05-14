@@ -1,0 +1,14 @@
+<resources>
+    <color name="primaryColor">#007BFF</color>
+    <color name="backgroundColor">#F2F4F6</color>
+    <color name="buttonColor">#007BFF</color>
+    <color name="primary">#FF6B6B</color>
+    <color name="primary_dark">#FF5252</color>
+    <color name="accent">#4ECDC4</color>
+    <color name="text_primary">#2C3E50</color>
+    <color name="text_secondary">#7F8C8D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="background_start">#FF6B6B</color>
+    <color name="background_end">#4ECDC4</color>
+</resources>
