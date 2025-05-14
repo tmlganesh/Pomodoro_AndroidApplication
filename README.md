@@ -15,3 +15,5 @@ A simple Pomodoro timer Android application built using Kotlin and Android Studi
 - IDE: Android Studio  )  
 - UI: Android XML Layouts /  
 - Others:Notifications
+
+![Image](https://github.com/user-attachments/assets/cd6526bc-c486-4116-bb40-2a3d9c5b6bea)
